@@ -1,0 +1,8 @@
+out/
+dist/
+qa/
+cache/
+audio/cache/
+.mm/
+.audit/
+__pycache__/
